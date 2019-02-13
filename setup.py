@@ -12,7 +12,7 @@ setup(
     author='',
     author_email='',
     REQUIRES_PYTHON='>=3.4.0',
-    # packages=['paper-generalizability-window-size'],  #same as name
+
     REQUIRED=['numpy', 'pandas', 'sklearn', 'matplotlib'],  # external packages as dependencies
     scripts=[
         'Scripts/Classification.py',
